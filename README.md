@@ -26,7 +26,7 @@
 
 ## 使用方法
 
-恩京の书房：enjing
+[恩京の书房](https://github.com/SaltyLeo/Ebook-crawler/tree/master/enjing)
 
 -----
 
