@@ -27,12 +27,3 @@
 ## 使用方法
 
 [恩京の书房](https://github.com/SaltyLeo/Ebook-crawler/tree/master/enjing)
-
------
-
-## 待修复
-
-- 中文乱码问题，在Linux界面能够正常显示中文，但在Windows下使用WINSCP连接到Linux查看文件就不能正常显示，反之亦然。debug好多次，但是上传到IPFS显示正常，并且生成的json也正常，所以就先放一放了。
-
-
-
